@@ -1,0 +1,22 @@
+h1{
+    
+    text-align: center;
+    background-color: blanchedalmond;
+    color: brown;
+}
+.lorem{
+    background-color: aqua;
+    color: blueviolet;
+}
+button{
+    background-color: aqua;
+    color: red;
+
+}
+div{
+    background-color: tomato;
+    padding: 10px 15px 20px 10px;
+}
+.Submit{
+    text-align: left;
+}
